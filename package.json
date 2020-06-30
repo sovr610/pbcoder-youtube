@@ -1,0 +1,24 @@
+{
+  "name": "pbcoder-youtube",
+  "version": "1.0.0",
+  "description": "a collection of projects for pbcoder youtube channel.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sovr610/pbcoder-youtube.git"
+  },
+  "keywords": [
+    "pbcoder",
+    "youtube",
+    "projects"
+  ],
+  "author": "PBcoder (Parker Bidigare)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sovr610/pbcoder-youtube/issues"
+  },
+  "homepage": "https://github.com/sovr610/pbcoder-youtube#readme"
+}
